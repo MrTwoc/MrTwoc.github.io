@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2021-02-21T02:59:47.153Z</updated>
+  <updated>2021-02-22T09:30:48.407Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>关于博客</title>
+    <link href="/2021/02/22/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/"/>
+    <id>/2021/02/22/关于博客/</id>
+    <published>2021-02-22T08:08:53.000Z</published>
+    <updated>2021-02-22T09:30:48.407Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;​        个人博客这个项目，终于在2021年2月搞出来了，起初的计划是用spring自己手写一个出来，既能锻炼一下自己，也能对自己的博客系统有一个了解，但是自己还是选择了使用一个现成的框架先来暂时的实现这个项目，未来再给自己的博客升级更新一下。&lt;/p&gt;
+&lt;p&gt;​ 
+        
+      
+    
+    </summary>
+    
+      <category term="随想" scheme="/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World(Hexo简易文档)</title>
     <link href="/2021/02/21/hello-world/"/>
     <id>/2021/02/21/hello-world/</id>
     <published>2021-02-21T02:59:47.153Z</published>
-    <updated>2021-02-21T02:59:47.153Z</updated>
+    <updated>2021-02-22T08:20:30.244Z</updated>
     
     <summary type="html">
     
