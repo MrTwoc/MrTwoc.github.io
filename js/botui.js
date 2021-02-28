@@ -143,7 +143,11 @@ function bot_ui_ini() {
         fifthpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "这个博客其实早在计划之中，打算当成自己的项目，用来记录自己"
+                content: "这个博客其实早在计划之中，因为其他事情,鸽了许久"
+            }).then(function () {
+                botui.message.add({
+                    delay: 1600,
+                    content: "这个博客,用来写下我的所学所想，值得纪念的故事和照片"
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
