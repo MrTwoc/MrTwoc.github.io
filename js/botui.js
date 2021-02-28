@@ -147,10 +147,6 @@ function bot_ui_ini() {
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
-                    content: "这个博客,用来写下我的所学所想，值得纪念的故事和照片"
-            }).then(function () {
-                botui.message.add({
-                    delay: 1600,
                     content: "那么，仔细看看我的博客吧？ ^_^"
                 })
             })
