@@ -126,7 +126,7 @@ function bot_ui_ini() {
             }).then(function () {
                 botui.message.add({
                     delay: 1100,
-                    content: "我想推荐一部跑步的番《强风吹拂》,看完之后感觉很棒！"
+                    content: "推荐一部跑步的番《强风吹拂》,看完之后觉得很棒！"
                 }).then(function () {
                     botui.action.button({
                         delay: 1500,
